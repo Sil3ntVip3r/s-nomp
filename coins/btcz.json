@@ -10,7 +10,7 @@
     "requireShielding": true,
     "payFoundersReward": true,
     "percentFoundersReward": 5,
-    "foundersRewardAddressChangeInterval": 14000,
+    "foundersRewardAddressChangeInterval": 14001,
     "maxFoundersRewardBlockHeight": 1400000,
     "vFoundersRewardAddress": [
      "t3eC2B44yVkyj7Q7RMkfBhkDisc4ieYtv5d",
